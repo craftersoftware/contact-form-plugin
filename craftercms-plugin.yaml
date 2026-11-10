@@ -18,15 +18,15 @@ plugin:
     minor: 0
     patch: 21
   description: A plugin to add contact forms to a site
-  documentation: "https://raw.githubusercontent.com/craftercms/contact-form-plugin/master/readme.md"
+  documentation: "https://raw.githubusercontent.com/craftersoftware/contact-form-plugin/master/readme.md"
   website:
     name: Contact Form
-    url: https://github.com/craftercms/contact-form-plugin
+    url: https://github.com/craftersoftware/contact-form-plugin
   media:
     screenshots:
       - title: Contact Form
         description: Contact Form Example
-        url: https://raw.githubusercontent.com/craftercms/contact-form-plugin/master/.crafter/screenshots/default.png
+        url: https://raw.githubusercontent.com/craftersoftware/contact-form-plugin/master/.crafter/screenshots/default.png
   developer:
     company:
       name: CrafterCMS
